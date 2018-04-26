@@ -1,0 +1,9 @@
+- Token placement
+
+- 
+
+- 
+
+- (Desired?) Implement panning the camera's target (middle mouse drag?)
+
+- 
